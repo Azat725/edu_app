@@ -1,0 +1,14 @@
+.env
+.node_modules
+package.json
+package-lock.json
+tsconfig.ts
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
